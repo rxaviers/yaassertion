@@ -1,6 +1,6 @@
 {
   "name": "yaassertion",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Yet another JavaScript assertion/invariant library.",
   "main": "dist/index.js",
   "scripts": {
