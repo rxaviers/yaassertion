@@ -1,7 +1,7 @@
 {
-  "name": "assertion",
+  "name": "yaassertion",
   "version": "0.0.1",
-  "description": "A JavaScript assertion/invariant library.",
+  "description": "Yet another JavaScript assertion/invariant library.",
   "main": "dist/index.js",
   "scripts": {
     "build": "BABEL_ENV=client rollup --config src/rollup-config.js",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:rxaviers/assertion.git"
+    "url": "git@github.com:rxaviers/yaassertion.git"
   },
   "keywords": [
     "invariant",
