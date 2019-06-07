@@ -4,6 +4,7 @@
   "description": "Yet another JavaScript assertion/invariant library.",
   "main": "dist/index.js",
   "module": "src/index.js",
+  "sideEffects": false,
   "scripts": {
     "build": "BABEL_ENV=client rollup --config src/rollup-config.js",
     "prettier": "prettier --write '{src,test}/**/*.{js}' website/*json",
